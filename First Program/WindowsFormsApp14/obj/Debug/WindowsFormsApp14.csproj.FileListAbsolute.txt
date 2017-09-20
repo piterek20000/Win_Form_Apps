@@ -1,0 +1,19 @@
+c:\users\hack3r\documents\visual studio 2017\Projects\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe.config
+c:\users\hack3r\documents\visual studio 2017\Projects\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe
+c:\users\hack3r\documents\visual studio 2017\Projects\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.pdb
+c:\users\hack3r\documents\visual studio 2017\Projects\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csprojResolveAssemblyReference.cache
+c:\users\hack3r\documents\visual studio 2017\Projects\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form1.resources
+c:\users\hack3r\documents\visual studio 2017\Projects\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Properties.Resources.resources
+c:\users\hack3r\documents\visual studio 2017\Projects\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.GenerateResource.Cache
+c:\users\hack3r\documents\visual studio 2017\Projects\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe
+c:\users\hack3r\documents\visual studio 2017\Projects\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.pdb
+D:\Pulpit\WindowsFormsApp14-20170823T164853Z-001\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe.config
+D:\Pulpit\WindowsFormsApp14-20170823T164853Z-001\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.exe
+D:\Pulpit\WindowsFormsApp14-20170823T164853Z-001\WindowsFormsApp14\WindowsFormsApp14\bin\Debug\WindowsFormsApp14.pdb
+D:\Pulpit\WindowsFormsApp14-20170823T164853Z-001\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csprojResolveAssemblyReference.cache
+D:\Pulpit\WindowsFormsApp14-20170823T164853Z-001\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Properties.Resources.resources
+D:\Pulpit\WindowsFormsApp14-20170823T164853Z-001\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.Form1.resources
+D:\Pulpit\WindowsFormsApp14-20170823T164853Z-001\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.GenerateResource.Cache
+D:\Pulpit\WindowsFormsApp14-20170823T164853Z-001\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.csproj.CoreCompileInputs.cache
+D:\Pulpit\WindowsFormsApp14-20170823T164853Z-001\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.exe
+D:\Pulpit\WindowsFormsApp14-20170823T164853Z-001\WindowsFormsApp14\WindowsFormsApp14\obj\Debug\WindowsFormsApp14.pdb
